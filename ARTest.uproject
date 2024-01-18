@@ -21,31 +21,6 @@
 			]
 		},
 		{
-			"Name": "AzureSpatialAnchorsForARKit",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"IOS"
-			]
-		},
-		{
-			"Name": "AzureSpatialAnchors",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android",
-				"IOS",
-				"Mac",
-				"HoloLens"
-			]
-		},
-		{
-			"Name": "AzureSpatialAnchorsForARCore",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Android"
-			]
-		},
-		{
 			"Name": "CommonUI",
 			"Enabled": true
 		}
